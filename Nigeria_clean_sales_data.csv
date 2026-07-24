@@ -1,0 +1,514 @@
+Customer Name,State,Product,Unit Price,Sale Date,Sales Channel,Order ID,Year,Month
+allison hill,lagos,headphones,267992.94,2024-03-15,Wholesale,4c636e95-025f-4543-8997-623ae0723d96,2024,3
+noah rhodes,anambra,keyboard,42364.41,2024-12-10,Unknown,edaf3766-1b78-4ede-9a4f-fc0c9165f2ed,2024,12
+angie henderson,delta,keyboard,279444.94,2024-04-05,Unknown,74503887-48d9-4846-95c5-51fcfba57cc8,2024,4
+daniel wagner,delta,tablet,95899.74,2025-01-12,Unknown,8639bd41-8b15-4d94-a42d-0cd7fd359f6a,2025,1
+cristian santos,oyo,camera,118189.9,2023-08-30,Direct,225aed6c-f045-4043-a3a6-8a707e710b55,2023,8
+connie lawrence,rivers,tablet,185141.9,2024-09-10,Wholesale,45d8a6ad-77d0-459e-8114-14f8d9df0d0e,2024,9
+abigail shaffer,imo,keyboard,252859.28,2024-09-04,Online,54a7b69b-1cd6-4b09-8f0e-6d2b315c167a,2024,9
+gina moore,kano,camera,178320.53,2024-02-21,Wholesale,a5f60735-757b-4b29-bb2a-a1462999394c,2024,2
+gabrielle davis,plateau,tablet,152440.84,2025-06-02,Direct,039b058c-2faa-4e0b-b7f6-0cdf41dc1c60,2025,6
+monica herrera,abuja,laptop,153159.37,2025-05-02,Retail,317304b5-c1dd-484a-aca5-8d95915a1c30,2025,5
+jamie arnold,lagos,tablet,147209.07,2023-11-10,Wholesale,a383889a-db2c-4ac8-9c67-83932ced3c0d,2023,11
+unknown,kano,camera,169095.82,2025-01-13,Unknown,6d7df5d0-d3b5-4af7-a7ce-378fe5a4983b,2025,1
+lisa hensley,enugu,tablet,142730.33,2025-01-12,Direct,Unknown,2025,1
+michele williams,delta,charger,5482.77,2025-06-30,Direct,669d01ff-1634-425b-93f3-007383e96ef4,2025,6
+dylan miller,bauchi,charger,99706.26,2025-01-04,Retail,fb4fb88a-2f4d-4219-986b-2880ab545a15,2025,1
+brian ramirez,katsina,laptop,33326.57,2024-11-17,Unknown,ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,2024,11
+holly wood,lagos,headphones,125253.81,2023-11-23,Direct,6231ee73-42c2-42eb-81bf-9e733f800385,2023,11
+derek zuniga,imo,headphones,92649.51,2025-03-18,Online,4459bd6e-c0f6-4229-b25d-42593c4b1eec,2025,3
+lisa jackson,enugu,camera,157889.24,2024-04-16,Unknown,951c25d5-4d4c-4280-9462-52e7f43ba052,2024,4
+carla gray,imo,monitor,269680.75,2024-08-09,Wholesale,42f525b9-02ed-43ce-92a8-1713b90ed44b,2024,8
+margaret hawkins dds,niger,headphones,261693.68,2024-01-01,Retail,3c7e5368-b159-4847-9c0b-9b10a757cb10,2024,1
+patty perez,delta,camera,188963.51,2023-10-13,Online,77242041-1e43-4bd2-aaf4-07f70fe76149,2023,10
+ethan adams,ekiti,laptop,179274.43,2023-12-14,Online,afa28559-67c9-4204-a8e3-33b64e8adc4b,2023,12
+tommy walter,plateau,monitor,80026.37,2025-03-17,Wholesale,e346f415-e526-4a2b-ac50-ace480a52e65,2025,3
+unknown,anambra,monitor,196849.5,2023-10-26,Retail,b0b6dedf-4f9c-4027-8514-4d98b41c504f,2023,10
+matthew foster,lagos,charger,291631.03,2024-01-10,Direct,f0cd7f05-ea87-455e-a382-95d31e0ef546,2024,1
+judy baker,kaduna,keyboard,173753.06,2025-03-15,Retail,Unknown,2025,3
+justin baker,niger,monitor,68649.2,2024-07-28,Direct,3889936a-9d58-47e8-9e17-5b664b87959f,2024,7
+zachary hicks,anambra,camera,15880.87,2024-04-16,Wholesale,fd247c11-bf6b-4cdf-b479-7b6127372b52,2024,4
+anthony rodriguez,oyo,monitor,144394.41,2024-09-13,Online,b3b26337-6a74-4bb7-9fa5-e0aa9b11b530,2024,9
+rebecca henderson,enugu,monitor,157507.58,2024-09-27,Online,c1e1b94a-7888-4058-a9ad-0e9b8c9aa1e9,2024,9
+james ferrell,sokoto,phone,216494.26,2024-04-22,Online,d35ac07a-aa02-47d0-8d4f-8b2b899ac252,2024,4
+tricia valencia,rivers,monitor,232494.54,2024-07-08,Wholesale,ae2ae341-3f59-44f2-8309-3b6e37e9d2e2,2024,7
+nathan maldonado,kano,keyboard,114367.01,2025-03-26,Direct,c9912032-df85-4777-9887-4bfec1369c65,2025,3
+debra davidson,benue,phone,246587.56,2024-09-11,Wholesale,87365a84-725e-434d-8687-9aa914f573d0,2024,9
+jeffrey chavez,rivers,charger,73037.87,2023-10-19,Wholesale,ead08c89-13fe-4a29-9c9d-eee0b42a0456,2023,10
+unknown,osun,tablet,171984.8,2024-10-28,Online,d42a895e-0fcf-401f-9cb9-b73a906d5c8c,2024,10
+cassandra gaines,katsina,monitor,210306.01,2023-09-15,Online,2a1f1b61-265c-49d9-8962-8f6e929c93b3,2023,9
+elizabeth fowler,anambra,camera,57639.91,2023-08-31,Retail,Unknown,2023,8
+brittany farmer,abuja,keyboard,132591.05,2024-03-07,Direct,711c7673-8535-4a69-9abf-984e53ff8461,2024,3
+paula moreno,ekiti,camera,125924.7,2024-05-15,Direct,b787ef8d-3495-411e-ae27-d4321dc1e7eb,2024,5
+fred smith,imo,tablet,124181.55,2025-01-17,Unknown,e61d9cde-1747-4387-bd23-d47995492a82,2025,1
+sherry decker,rivers,monitor,61565.56,2025-01-19,Unknown,0e3e25f2-cf06-41c7-b20b-274b82a7f586,2025,1
+anthony humphrey,benue,keyboard,150794.94,2024-07-16,Unknown,6a5943ce-8364-45e3-a1c7-1aa3741423b5,2024,7
+angelica tucker,kano,phone,183637.68,2024-08-22,Direct,8f0d5540-0ec7-4662-905c-7bdd74f0beae,2024,8
+philip cannon,imo,monitor,141745.84,2024-05-25,Online,4ee4334e-ce92-4136-ac3a-812f765e6cb5,2024,5
+shane henderson,katsina,monitor,254588.91,2024-05-24,Online,37c86152-beed-4af9-80c5-9f30d1031424,2024,5
+unknown,osun,headphones,218356.93,2025-04-10,Wholesale,6c776e95-0b98-4ccd-92b2-102d940c3503,2025,4
+joshua blair,plateau,keyboard,211879.68,2024-09-29,Unknown,8a89b0f0-1052-41d3-b34c-6c7358330b30,2024,9
+eric carney,enugu,headphones,155845.62,2023-09-06,Online,e4eb8000-ef40-4162-8f6c-e9bffe7ee362,2023,9
+jessica holmes,kano,phone,168485.59,2023-10-16,Unknown,78d9a88a-ef0b-4a4f-bc73-7d9211ab3d11,2023,10
+danny morgan,abuja,monitor,299437.8,2024-03-13,Unknown,Unknown,2024,3
+crystal robinson,delta,phone,143772.11,2024-11-20,Wholesale,2e13418d-68ab-40ea-897e-c6d1081fc6dc,2024,11
+mark perez,borno,laptop,113359.02,2023-09-06,Direct,a43afb7a-c40d-4874-a2ab-7752c4db5a62,2023,9
+shannon jones,kano,monitor,287027.3,2024-06-24,Online,f6ba745b-a558-41e3-bab2-b77dfa740cc8,2024,6
+timothy duncan,rivers,keyboard,138169.23,2024-12-20,Direct,eac80da1-de9f-4f5b-b2d3-545861ea2f30,2024,12
+richard aguirre,benue,headphones,160171.56,2024-08-15,Direct,148b4376-602a-4e57-a0a3-99d4e821e716,2024,8
+brent jordan,anambra,phone,164108.83,2024-04-03,Online,dfe2c0a0-a96b-4c42-b6d2-2a7baec76a82,2024,4
+john daniel,ekiti,tablet,202922.64,2023-10-18,Unknown,dc3bbdd8-a74e-42a9-a20b-9ea98a0f9508,2023,10
+unknown,osun,monitor,260362.49,2025-05-22,Retail,fe2b34d8-2db0-428d-9e5e-be5459077299,2025,5
+victoria garcia,kaduna,charger,204383.39,2025-04-14,Unknown,2099d180-8762-4997-a49f-7d888989c5ab,2025,4
+gerald hensley,osun,camera,241193.93,2025-03-08,Unknown,d5b6de85-3902-49d9-ba8d-ae42ba54e920,2025,3
+connor west,osun,keyboard,79676.47,2024-09-11,Retail,fa7e5d94-05d1-4b63-8194-f97f00e3a026,2024,9
+donald wright,enugu,charger,145511.94,2024-11-18,Direct,b8168aeb-ac6a-4c85-b687-6c624c61845e,2024,11
+amber kidd,kano,monitor,287222.55,2023-11-29,Retail,6118433b-882c-4d1e-ac93-a7918b60c511,2023,11
+tracy house,katsina,tablet,84062.42,2025-02-26,Wholesale,75eb89c2-3f5c-42f3-bacb-43a3d2c7bffb,2025,2
+carol tucker,kaduna,monitor,89900.5,2023-10-19,Wholesale,3040413c-4690-4b15-a7b6-08dc589decb0,2023,10
+james brown,imo,tablet,282474.92,2024-06-11,Wholesale,c3f725fe-b99b-4b5a-a00d-a49deffa2002,2024,6
+william baker,delta,laptop,294686.96,2024-08-04,Direct,a902b73f-cf39-4648-883f-64c31ce362f8,2024,8
+jordan henderson,kaduna,keyboard,231466.69,2025-06-17,Retail,efad49e9-c41c-447e-9d6b-9b626b535a19,2025,6
+whitney peters,ekiti,phone,211617.83,2025-05-15,Online,3d9c4e64-0401-4ced-a398-36bbe23ddfaa,2025,5
+unknown,benue,phone,207226.85,2023-08-23,Retail,980cb95c-19d4-4deb-9139-fa1234c1c3ea,2023,8
+brittney phillips,anambra,charger,146956.42,2025-04-16,Direct,ac09bdb7-9908-4e47-b249-f62c08987462,2025,4
+amy silva,delta,laptop,144201.13,2024-08-16,Direct,705fddf5-66fa-4ca0-8b53-1932bd9419aa,2024,8
+sarah moore,sokoto,phone,168366.03,2023-11-06,Wholesale,c11f6bf5-379e-4467-8a2d-b2e63bfda8a6,2023,11
+angela lopez,abuja,phone,280378.37,2024-03-03,Direct,23dfecd7-0e73-4dd7-86ac-1b04dd1d6cd1,2024,3
+megan young,delta,camera,216638.48,2023-11-15,Online,Unknown,2023,11
+steve sanchez,abuja,camera,86692.92,2023-11-13,Wholesale,3bf2025f-4a0d-4b73-be54-ee4b80ff5173,2023,11
+lisa barnes,sokoto,phone,172256.3,2024-03-17,Wholesale,937bf79b-bb44-4adc-aa98-fef8d0d75e37,2024,3
+kelly donovan,benue,headphones,163185.67,2025-07-06,Retail,c5c51060-9911-41e7-93d5-63ae51a3ac26,2025,7
+mike allen,anambra,camera,268780.26,2025-01-11,Direct,3ca5be29-5217-4bf3-9181-83d1ac2b0cfc,2025,1
+michael evans,kano,headphones,118662.47,2024-01-02,Unknown,fc568b53-24ac-4722-a052-77394d406f1b,2024,1
+unknown,plateau,laptop,103867.84,2025-07-10,Retail,8e85140d-0f9a-4b70-8670-7cd64ceda164,2025,7
+zachary ferrell,sokoto,camera,232032.77,2024-08-17,Direct,bc36dc59-e134-4dfc-9777-7f10f2d2393f,2024,8
+daniel baker,enugu,keyboard,44369.6,2025-06-05,Online,adc29178-a041-4612-acd5-8759e95d2761,2025,6
+shirley suarez,cross river,tablet,13098.91,2024-02-16,Retail,0c00988a-7ee1-411a-8e4c-3ab56d5d0477,2024,2
+christopher bass,benue,charger,286616.46,2025-04-28,Wholesale,a4b05c89-f10b-4e9c-982b-91eef8e8035b,2025,4
+lisa archer,ekiti,headphones,24169.32,2023-09-10,Online,86433603-c92a-4d7c-a193-5990abdd1a8f,2023,9
+aimee montoya,oyo,laptop,277240.88,2024-01-21,Direct,6883ac6e-6a94-4054-b241-4482519894d8,2024,1
+matthew mcmillan,anambra,headphones,196963.63,2023-12-10,Wholesale,Unknown,2023,12
+brian rodriguez,oyo,tablet,224327.88,2024-11-15,Unknown,2f12b150-605f-41eb-8cc5-7e0d26332018,2024,11
+denise jacobs,delta,laptop,157889.24,2024-09-10,Direct,3db0174e-7938-478a-89b5-aab0c12169db,2024,9
+christina walters,imo,phone,64589.05,2024-02-09,Wholesale,db87d29c-4cfd-4fc1-b9b0-2e2ad96e684f,2024,2
+john whitehead,imo,tablet,248471.54,2023-10-16,Direct,7688d11f-ce47-48be-a4f4-3c62b523c0de,2023,10
+anna henderson,anambra,monitor,81704.25,2024-11-07,Wholesale,69a53b4f-8ff8-469d-8ec0-713dea2c7a51,2024,11
+unknown,plateau,monitor,168824.4,2024-03-02,Direct,87ad8b26-8eaa-4841-aaa0-426df7c0d5f7,2024,3
+aaron wise,niger,camera,81850.63,2024-10-30,Unknown,41476506-3e2b-49c9-a36f-6e5c2253e706,2024,10
+deborah figueroa,plateau,laptop,33213.36,2024-08-28,Retail,143df5b3-a58e-43dd-948c-1d84340de049,2024,8
+jessica smith,benue,camera,222396.85,2023-09-21,Wholesale,5efeef4f-d8dd-4bc0-b325-3aa3ec170298,2023,9
+stephen mckee,osun,laptop,72164.98,2024-08-04,Wholesale,d453f867-b97e-4224-891f-691217abb863,2024,8
+sandra aguilar,delta,tablet,15704.25,2024-11-19,Unknown,608e149e-44b9-4602-8d31-812e30c36756,2024,11
+rebecca valencia,bauchi,phone,271602.67,2024-10-12,Direct,cdfd9531-302b-4831-92a1-fe7ddfa59722,2024,10
+christine wright,cross river,charger,68088.66,2024-10-04,Wholesale,Unknown,2024,10
+richard henson,kano,monitor,70234.55,2023-11-07,Retail,abe42e7d-b96c-4163-966b-e275c2fe8954,2023,11
+marc moore,abuja,charger,30509.29,2023-11-20,Direct,3579c143-7ab9-4428-b78e-65108f10d33e,2023,11
+sharon cherry,rivers,laptop,99422.94,2024-12-03,Wholesale,4d9dbaeb-553d-4625-a833-4da5de95d695,2024,12
+sierra johnson,oyo,charger,141984.97,2024-11-07,Wholesale,363908bf-03ec-48ff-a8b3-d763f4ff3f3a,2024,11
+unknown,kaduna,phone,204517.0,2025-01-20,Direct,bdd151b0-f64a-46ec-b0a5-648eefe9b3d0,2025,1
+evelyn galvan,niger,monitor,41671.38,2025-06-10,Unknown,c11bd1c4-ffe3-4366-bf33-7a151e086f20,2025,6
+sharon cochran,katsina,keyboard,289373.37,2024-10-23,Retail,b2149062-3e1a-463e-aa18-d32c7a9a8ef5,2024,10
+shannon walker,benue,monitor,293384.26,2025-04-25,Direct,52555c75-8d55-419e-bd44-cb2cea45ba41,2025,4
+julia torres,benue,charger,47803.35,2025-06-27,Wholesale,775c30b5-6173-4c48-8876-9153c68813fe,2025,6
+crystal johnson,katsina,keyboard,196041.39,2024-09-20,Direct,4ef4c34d-5bf8-4f3c-a612-9a1c889d4b76,2024,9
+garrett lin,ekiti,headphones,264253.91,2023-08-11,Wholesale,e1fff6c0-8347-41da-9c11-ab6d42f5b3f5,2023,8
+diana may,bauchi,monitor,142972.04,2025-04-11,Online,cd8563ca-193e-438d-b74c-0afa7f4d908c,2025,4
+william herrera,anambra,headphones,195336.34,2025-05-11,Unknown,Unknown,2025,5
+ashley waller,imo,tablet,226895.36,2023-08-02,Retail,c2fa1da8-7830-4631-b8f0-188efb37afae,2023,8
+victor baker,lagos,keyboard,86529.89,2023-09-12,Unknown,340029c3-ea11-405b-91fa-cefad6f89f7a,2023,9
+jeffrey chandler,rivers,keyboard,85981.89,2023-08-15,Unknown,0bb401e7-69f7-43f1-901b-a8515ee68495,2023,8
+larry dixon,anambra,tablet,18219.19,2025-02-28,Unknown,8da5d39b-42c2-4797-8426-fcc9255b30e2,2025,2
+kenneth scott,sokoto,charger,230733.14,2024-09-30,Online,b852b3cd-9442-45e6-9583-1d58ef4c5119,2024,9
+april frost,rivers,camera,195863.47,2024-02-01,Direct,32399ffb-2704-4f25-8b91-b8cb6ae66582,2024,2
+michelle harmon,borno,laptop,70049.95,2024-11-27,Retail,91ddb9bf-613d-4de9-bae2-802354720d2d,2024,11
+helen jones,niger,tablet,221736.61,2023-12-21,Direct,8cf6e8b8-7fd2-48c3-bee8-2983d5574241,2023,12
+erin edwards,kaduna,keyboard,255174.76,2025-02-25,Wholesale,566a9ce7-af52-4b94-b186-e47aa7946320,2025,2
+michelle evans,ekiti,camera,11670.82,2024-09-27,Online,7d1645a0-d253-4966-836b-9a0a41e02a89,2024,9
+jason powell,lagos,keyboard,276480.53,2024-05-29,Direct,bd5609c4-a446-4663-b93b-17fbf76d15fd,2024,5
+cameron fisher,anambra,monitor,125656.55,2024-11-02,Direct,bb96f602-2b11-4c36-b5f8-e3a87d97ac0f,2024,11
+megan orr,bauchi,charger,157889.24,2024-11-18,Retail,Unknown,2024,11
+elizabeth kelley,kaduna,phone,251362.66,2023-08-03,Wholesale,23d4526b-2b54-4f7a-9a28-37b2cb8383f2,2023,8
+dustin jordan,bauchi,keyboard,280209.82,2024-07-31,Retail,2f1dc121-7d02-4c6d-8bea-75c1b86677aa,2024,7
+unknown,rivers,charger,11383.78,2025-05-31,Wholesale,fd85d7fa-8ac9-4b01-a3ad-64d4eab9eb02,2025,5
+mary marshall,borno,headphones,250942.86,2024-11-09,Retail,862138ad-0f09-405c-b50d-7a37a44d9fec,2024,11
+daniel kennedy,bauchi,keyboard,236494.21,2024-09-06,Direct,13075157-d8c1-48e7-96cd-315508a8ac7f,2024,9
+rebecca jackson,katsina,camera,56300.33,2024-02-20,Direct,0c6b7074-ab10-4c9b-9168-2e09f1f7d904,2024,2
+jose schultz,enugu,charger,224826.46,2024-11-20,Online,2332a50e-6992-496e-81a2-5ed1c3abb5f1,2024,11
+robert potter,oyo,tablet,261751.06,2024-03-01,Direct,116658ce-3b3f-4800-a175-a9c3d7b102a9,2024,3
+courtney gonzalez,osun,charger,87195.36,2024-07-20,Unknown,37fe032c-0257-4851-a6a9-e100b509109b,2024,7
+angel perry,imo,tablet,11721.12,2025-03-27,Unknown,ef145064-aab0-4015-a342-2e509e2a7324,2025,3
+cheyenne horton,bauchi,phone,89868.47,2025-03-29,Direct,a8c6dbc0-7bb3-447b-a9aa-144b9dd43675,2025,3
+david douglas jr.,lagos,camera,181033.5,2024-12-24,Unknown,883f13c6-01b1-48e9-8406-ff447ce40679,2024,12
+patricia rodriguez,katsina,laptop,278572.23,2024-05-21,Unknown,Unknown,2024,5
+christopher rubio,sokoto,camera,100845.11,2024-02-27,Direct,04482a22-0308-4a5e-a94d-7b008d388327,2024,2
+unknown,cross river,monitor,136577.55,2024-06-27,Unknown,892621df-4655-48b7-b8e1-9f568787ea21,2024,6
+amber wright,lagos,keyboard,192573.07,2023-09-05,Online,80913ac1-0463-450e-8964-6b96fa3c1628,2023,9
+joyce solis,rivers,camera,157533.4,2024-12-26,Wholesale,6e3a0ba8-ac8d-4c7d-b2a6-e468d02b1243,2024,12
+victoria larson,osun,keyboard,266833.36,2023-08-26,Unknown,2de46e91-e8e6-4840-b090-f5a0ce610199,2023,8
+stephanie salazar,borno,keyboard,157889.24,2023-11-10,Unknown,863e1f2a-18a8-46ef-ab05-3fc41b656dab,2023,11
+kathy rivas,delta,keyboard,40692.88,2024-06-16,Online,9ea9f508-3122-4592-bdb0-2235261e2555,2024,6
+stephanie manning,abuja,phone,151511.7,2024-05-28,Online,5abca6e5-d0b1-43eb-809e-7a8086c5d1d6,2024,5
+david wright,delta,laptop,82214.71,2024-07-21,Retail,143a9aff-659b-4105-8b80-f288446f64dd,2024,7
+pamela boyd,plateau,tablet,242739.76,2024-07-05,Wholesale,7580e050-67f1-498c-b594-8a545f804eeb,2024,7
+denise jones,kano,camera,99539.89,2023-12-16,Retail,b27e1442-fd7f-4973-be42-df5b90a3fbbf,2023,12
+devon flores,kano,monitor,219470.21,2024-03-31,Unknown,d3fbe043-af1d-4a1a-8ccb-235539d1c7ff,2024,3
+brenda hall,cross river,camera,194661.46,2024-10-24,Online,fdde64af-a75b-495a-94a3-4f7fd90dd19b,2024,10
+michelle brown,kano,tablet,215720.15,2023-10-30,Unknown,Unknown,2023,10
+unknown,imo,charger,4718.22,2024-03-09,Direct,081c79d4-c274-47eb-a65f-7b8adbb44021,2024,3
+joshua perry,oyo,keyboard,157889.24,2025-05-10,Wholesale,608e2f5c-6117-4270-a7c0-518b17efa621,2025,5
+jason stein,oyo,charger,101465.1,2025-01-18,Direct,a301ec03-0e5d-4c6a-b9db-78628d7dd772,2025,1
+melissa gates,cross river,monitor,88859.77,2024-03-15,Online,152aeaec-2bdf-4b41-b3ed-a8f1026b5383,2024,3
+jamie smith,imo,charger,202483.14,2025-01-31,Online,a518a418-6f14-43f6-9867-888b7ff6b824,2025,1
+paul castaneda,kaduna,charger,58351.81,2025-05-09,Online,fa323f69-90db-4ad6-94ce-26bec8cce2c2,2025,5
+jennifer adkins,anambra,keyboard,183480.87,2024-04-04,Wholesale,e5110961-1869-4217-b94d-8fcbdba3496f,2024,4
+lindsey walker,bauchi,tablet,191798.38,2024-05-15,Retail,3ad1fa33-0ae4-4c11-ab4d-8f42873570a2,2024,5
+jeffrey johnson,katsina,tablet,121944.37,2023-10-20,Unknown,b139c476-de3c-488b-a6b9-d31a361f6d90,2023,10
+michael powell,niger,tablet,128597.12,2025-02-20,Unknown,45667c48-79ba-430a-9118-c400e336c243,2025,2
+john anderson,enugu,camera,98714.03,2024-04-23,Unknown,af36b8cc-1308-4974-ac95-b3ac0beb7c34,2024,4
+alyssa long,imo,laptop,157889.24,2024-08-13,Unknown,8b040f53-e639-49d4-87c6-8688ecf32053,2024,8
+alyssa day,enugu,camera,120549.56,2024-09-19,Unknown,2dea2d2d-086c-405f-a879-d8f890422eb7,2024,9
+unknown,borno,charger,29067.84,2023-10-01,Retail,Unknown,2023,10
+joel williams,benue,laptop,294514.72,2024-03-14,Direct,04022b3c-5082-41a5-99b5-9f84edc3a1c3,2024,3
+daniel murphy,osun,headphones,143497.5,2024-01-14,Wholesale,24e9bcfd-9647-4f9f-b508-507af622d842,2024,1
+jamie walton,ekiti,camera,280779.7,2024-07-07,Direct,d226a8b3-b674-410d-9218-c9d6c093bfb0,2024,7
+darlene miller,bauchi,camera,2545.62,2023-10-14,Direct,4c9d6907-13b2-4cec-adca-bf9465f6ba53,2023,10
+joshua cooke,ekiti,keyboard,115380.53,2024-02-03,Unknown,9112fbc0-3d8f-45f4-905f-9096299656e2,2024,2
+matthew harrington,rivers,tablet,134297.29,2024-06-24,Unknown,ad5229dd-639f-4471-9975-0f00d5aba8ae,2024,6
+nicole herring,delta,tablet,80464.8,2024-01-19,Retail,6243bed7-54ec-4f33-8a62-4cbde582b678,2024,1
+alex hernandez,delta,laptop,157889.24,2023-10-28,Wholesale,ca5e151b-23d3-4d4c-bd5f-f093c16f9bcc,2023,10
+michael elliott,kano,camera,99222.78,2023-09-24,Online,1413d64d-b962-48a7-b076-a7dcfd0ce433,2023,9
+michael wang,sokoto,tablet,174947.0,2023-08-19,Direct,588a3f87-f96d-40f8-bed6-3da08033f5c2,2023,8
+lawrence adkins,lagos,camera,172076.77,2024-02-21,Online,3b6dca0d-6fe5-440b-9901-ef870dbf0caf,2024,2
+robert oconnell,plateau,charger,78835.17,2024-05-04,Wholesale,9aec56a8-5731-4609-9375-ee90d6b361e4,2024,5
+unknown,imo,headphones,108185.85,2025-05-12,Direct,9879cf35-f471-4986-9d26-4599c4dd8df5,2025,5
+alexander collins,delta,tablet,71272.62,2024-10-30,Online,Unknown,2024,10
+tina sanders,plateau,phone,200501.94,2024-05-30,Online,538d6b8c-c607-41e9-b80b-2cea658e54a2,2024,5
+angela vaughn,delta,headphones,139885.8,2024-01-19,Retail,c8969c5b-45f8-428d-a255-e1bb07958c1f,2024,1
+ashley barton,lagos,tablet,48335.19,2025-05-13,Wholesale,3a67470c-7d98-402f-b357-41e5fe1a1ba9,2025,5
+lindsay martinez,kano,phone,157889.24,2025-06-10,Wholesale,601bfbcb-f0ee-4cce-8d93-e14a5b167158,2025,6
+dr. hannah patterson,abuja,phone,205979.05,2023-11-12,Wholesale,95fbe976-ae00-4b7e-af8c-83e56e8d9644,2023,11
+jonathan peterson,delta,tablet,276970.25,2025-04-02,Direct,c5acc354-15f0-4cb4-a14c-721da921cb4c,2025,4
+samantha garcia,kano,headphones,266396.52,2024-03-21,Retail,3f175534-cc4d-4819-8b9d-fd589e5d9c7a,2024,3
+madison poole,abuja,keyboard,231067.39,2025-07-05,Unknown,4499d0a6-1500-4170-92d1-5585b68e47fa,2025,7
+jessica gross,sokoto,laptop,207241.97,2024-10-01,Direct,c8ad0899-b630-494d-a147-adeb277b0667,2024,10
+debra morton,kano,phone,191794.04,2025-01-21,Wholesale,63be441d-bd5a-4c9e-a77e-b0aaa247541d,2025,1
+karen graham,bauchi,tablet,282220.37,2024-03-09,Direct,176de21f-1b46-4bdc-9c56-d9bc5111d31d,2024,3
+unknown,delta,keyboard,110579.4,2023-12-05,Online,71da35b9-4eea-4db8-b165-d77901547950,2023,12
+debra christian,anambra,keyboard,66644.35,2025-02-22,Direct,1a2bd69c-450f-49ee-82e7-9a985c238d8d,2025,2
+john bishop,enugu,charger,287229.48,2024-08-01,Wholesale,6e54ac6d-2ff8-487e-9659-1c8921ebfaa9,2024,8
+allen rosales,imo,headphones,143715.48,2024-08-13,Online,832f52c4-8e03-40cf-8e96-922772e76b51,2024,8
+daniel salinas,oyo,phone,136766.11,2024-07-07,Wholesale,16f142a2-06b9-49aa-9a71-67c768759545,2024,7
+spencer haynes,plateau,tablet,296656.97,2024-08-01,Online,98d00c2c-17d3-4f32-8de1-596c5a9a206a,2024,8
+adam vaughan,plateau,keyboard,112400.64,2025-05-23,Online,dd1ca267-530d-4da6-88d0-f9e5991965ea,2025,5
+nathan freeman,cross river,laptop,210731.25,2024-03-06,Online,69ef74e3-4ab6-421c-8328-c136629ef3d8,2024,3
+melissa brewer,delta,laptop,273882.67,2024-07-31,Wholesale,b98f5dbe-15ae-4e0f-8777-a07f6346d4ef,2024,7
+ricky davis ii,cross river,monitor,227326.48,2023-07-29,Online,fe2390f3-e7bb-4efc-8f3d-c97fe6b0da0a,2023,7
+elizabeth perkins,niger,keyboard,240697.5,2023-09-18,Retail,85671b58-926b-4fa5-be24-5fbffa698cd2,2023,9
+unknown,rivers,phone,247768.25,2024-08-06,Unknown,44b64ec1-4d16-4049-84d7-df9a238b05b7,2024,8
+erin warner,rivers,headphones,228676.96,2024-06-30,Retail,2ace1aa9-1032-46b3-a55b-fc1c7e3d5ee4,2024,6
+david martinez,niger,headphones,204262.41,2024-01-13,Unknown,4cbc9044-6bcd-4ce7-86a5-6fe86f46f1b1,2024,1
+bryan herrera,osun,tablet,178946.43,2023-12-25,Retail,Unknown,2023,12
+cathy robinson,niger,laptop,236317.52,2024-10-06,Wholesale,5c72aebd-13b1-4e59-885c-d7147bf69552,2024,10
+dr. william warren,niger,camera,157889.24,2024-04-10,Unknown,b88cddde-3f20-46c2-b1b8-8d65406f64d6,2024,4
+brian lee,ekiti,laptop,158687.85,2023-08-17,Direct,9dde0188-9803-422e-beec-e88da002352a,2023,8
+christopher smith,abuja,monitor,108854.57,2023-08-19,Direct,22af711f-1b62-4a9d-b536-6b9f320f72c0,2023,8
+denise mccann,rivers,camera,275214.79,2024-02-14,Retail,654c11d9-f2e6-4828-81bb-819c4dfe1117,2024,2
+melissa martinez,abuja,monitor,157889.24,2024-07-29,Direct,614077d3-9ec4-4a48-9773-f98d550c2fe9,2024,7
+katherine salas,benue,keyboard,34106.53,2024-10-17,Retail,70b27304-545c-488d-9cb9-075ecdd7f460,2024,10
+julie alexander,sokoto,keyboard,248717.83,2025-05-26,Retail,d2d33488-d0c3-4018-ae3c-dd4f55b145e4,2025,5
+anthony everett,rivers,tablet,270915.0,2025-04-25,Direct,982a2277-f966-459f-a6aa-59e5dc08bf29,2025,4
+unknown,delta,monitor,61045.96,2024-11-30,Direct,9a6c0db9-5217-4c88-8ce9-53a722d90db3,2024,11
+rodney morales,enugu,tablet,161229.72,2024-12-14,Online,7aa061e9-336b-40cb-b1fe-ad13f280df1d,2024,12
+mark brown,enugu,phone,49778.88,2024-07-10,Unknown,65f30779-f6ee-4cdb-ad79-a2d1506e50c7,2024,7
+justin torres,imo,laptop,256418.56,2024-02-17,Retail,bc20b9f2-4a9c-489e-91b3-0182f7fe604f,2024,2
+bailey duran dds,ekiti,camera,132831.25,2024-08-30,Direct,Unknown,2024,8
+courtney mills,oyo,camera,204248.42,2023-07-17,Unknown,f7bf5244-7db2-47aa-a205-e54fb1e8c09d,2023,7
+elizabeth oliver dds,kaduna,laptop,215216.93,2023-10-02,Direct,c92e8c93-d105-48d6-87c1-c01760452909,2023,10
+theresa clark,anambra,headphones,146903.98,2024-06-09,Online,ee9bf3e1-1d27-409a-9d71-a89864976593,2024,6
+matthew moore,ekiti,camera,269717.36,2023-10-23,Retail,ff4cc10f-979c-40cf-b326-1887905881df,2023,10
+benjamin smith,delta,headphones,133922.07,2025-05-26,Retail,c4829b71-ae84-481c-ae0f-b5b38bae591e,2025,5
+kirk carter,kano,laptop,17162.92,2024-02-01,Wholesale,ba2aa7ba-f3f8-4c31-86e3-f9498cd34c62,2024,2
+michael warner,ekiti,headphones,40017.33,2025-01-26,Online,35ab8466-b557-4b00-b166-cdcf762cdfbc,2025,1
+unknown,imo,phone,124919.66,2024-04-20,Unknown,d4cee27c-4a94-4e9f-8c35-1e4f703e957f,2024,4
+michael bradshaw,rivers,monitor,169391.4,2025-02-23,Online,d908a121-d1a7-4a20-91b4-61e9b15da72d,2025,2
+lori guerrero,abuja,keyboard,167859.76,2024-05-19,Unknown,ac484366-68bd-40d7-8b88-1c32cbb02a8b,2024,5
+susan serrano,lagos,tablet,201993.93,2023-08-15,Wholesale,2775ee42-a89e-42f2-80af-bf3f3df51967,2023,8
+christopher parker,kano,phone,92796.78,2024-05-17,Wholesale,Unknown,2024,5
+laura roberts,delta,camera,7020.25,2023-08-19,Retail,6082786f-ca00-4f58-ac52-1d13b719bb68,2023,8
+michael lyons,kaduna,tablet,76709.94,2024-09-25,Direct,9912316a-fd9e-4e20-b2f6-095812ef6101,2024,9
+kathryn snyder,niger,tablet,1403.13,2024-09-19,Online,88cc4d49-669b-49b8-950d-f1a07aaf2001,2024,9
+andrew reynolds,cross river,keyboard,65761.44,2023-12-09,Wholesale,dea050c6-eb9e-4274-ac6a-37ad81b15db9,2023,12
+david davis,cross river,laptop,22372.34,2024-04-17,Direct,09697101-8b2c-450a-ab15-c11bb113d50b,2024,4
+sara johnston,enugu,camera,127397.37,2024-09-12,Unknown,b39e4df2-5c0a-4feb-b7ea-e66eca6caf9b,2024,9
+yvonne chambers,benue,tablet,210265.27,2024-02-20,Wholesale,98049562-8972-4bbd-8ff2-b1c4e53f9644,2024,2
+unknown,abuja,camera,157889.24,2023-09-06,Unknown,1bffa279-15c1-404f-aa16-3354a35fc9c1,2023,9
+andrew avila,kaduna,monitor,162578.47,2024-05-06,Direct,aa2960fd-a858-44df-bf8c-1097c4da2c2e,2024,5
+matthew moon,benue,laptop,18546.56,2024-08-05,Unknown,9cd8758b-a5a1-4825-aa95-28c35ae1dbad,2024,8
+kevin walters,lagos,camera,268318.42,2024-06-24,Direct,a520c3d0-fbcd-4f5e-902f-34650b570720,2024,6
+brandon bailey md,benue,headphones,295848.11,2025-02-23,Unknown,f780ef2f-664d-4922-a590-fd3cad6ecc57,2025,2
+shannon rivera,anambra,tablet,141885.32,2024-09-10,Online,cbd5cc86-f739-46e9-94e3-8579c0afd193,2024,9
+donna landry,ekiti,headphones,86483.67,2024-02-13,Wholesale,Unknown,2024,2
+krista gibson,borno,laptop,54404.41,2025-04-12,Wholesale,193e4783-02b3-4254-9b1f-2eb16e3255a8,2025,4
+frank cordova,niger,phone,41060.95,2024-11-06,Direct,bf31c29f-82bb-4d84-b8d5-101f423cad9d,2024,11
+jose travis,imo,headphones,192636.74,2024-12-20,Unknown,b00ac64c-949c-48d4-8ed8-a80d84cfee39,2024,12
+kimberly gutierrez,cross river,tablet,157889.24,2024-10-27,Retail,5fc64cd0-721e-4b1f-b895-89399342a09f,2024,10
+isaiah avila,oyo,tablet,218922.21,2023-10-11,Wholesale,adf75924-c5b8-486b-b68b-4f7e64215e66,2023,10
+olivia harris,enugu,keyboard,289152.88,2023-10-18,Unknown,2697384d-801e-4690-b0c0-7fcc96add4df,2023,10
+unknown,borno,laptop,112651.05,2023-09-24,Unknown,7b96e2d1-0649-4cf6-bf69-723d584fc85b,2023,9
+tanya kim,enugu,keyboard,267454.41,2024-05-11,Online,eba900e1-6a7d-4d96-8ba1-72331ac3bf31,2024,5
+barbara dudley,abuja,tablet,134836.87,2024-04-25,Retail,d4d13d55-1db6-4844-95fa-9483f633cc2d,2024,4
+cynthia moore,plateau,monitor,275175.97,2025-03-19,Wholesale,592c1107-2444-4301-baeb-286bf0d0270f,2025,3
+kristen davis,imo,tablet,113560.16,2024-03-30,Online,c8c5eb2a-7490-4deb-97d3-37d34fd80bbb,2024,3
+susan murray md,abuja,keyboard,24534.87,2024-09-16,Retail,592a3549-7ba1-49d0-8567-c80534f541c0,2024,9
+kathleen moran,sokoto,keyboard,289261.24,2025-07-09,Wholesale,b8d49848-702b-449f-98fd-d2b979e5c9aa,2025,7
+mrs. kristen reyes,abuja,phone,262428.84,2025-02-16,Retail,1132567c-51a4-4d2a-b3d3-9457b25f13df,2025,2
+katie suarez,plateau,monitor,40330.45,2023-10-31,Wholesale,b5f59cb0-cf68-4878-8b70-59334cde1b6b,2023,10
+desiree tyler,cross river,charger,258155.83,2023-12-12,Retail,57d3f4dd-d963-4c72-85c8-234b1d763a66,2023,12
+timothy romero,bauchi,tablet,36030.63,2024-10-20,Unknown,ccd015c1-ad59-40dd-9bff-3142a5e15b55,2024,10
+diane evans,bauchi,phone,297857.61,2024-08-09,Direct,bd90b81a-fbe0-46b8-ae0f-65a82a131c1f,2024,8
+unknown,kaduna,laptop,118221.06,2024-05-17,Direct,8d49fe3f-2ca8-4783-8418-2d353e711433,2024,5
+yvonne burns,abuja,camera,38640.45,2024-08-02,Unknown,6d268b37-8f52-42d3-94bb-bcf828fea761,2024,8
+joshua reed,bauchi,phone,293627.95,2023-08-11,Retail,cc39b925-3b5a-4288-b649-2e64f55dce6d,2023,8
+kimberly gibson,kano,tablet,250529.07,2023-08-15,Unknown,2fb70dab-2f38-4b43-a137-f8e467b13040,2023,8
+colin terry,kaduna,phone,157889.24,2023-08-10,Direct,6544e313-6ea0-4d13-a845-54c3a3f66c61,2023,8
+cynthia rowe,kano,headphones,226975.73,2023-10-25,Direct,e212ab7c-9d36-4cb6-bcc5-7be00779250a,2023,10
+patrick thornton,katsina,keyboard,293557.96,2025-01-15,Retail,6df72cd3-979a-4051-b317-591a3283daa4,2025,1
+jasmin alvarado,kano,keyboard,139169.67,2024-03-25,Direct,36fce0ac-b469-4db3-8123-a348638abdf6,2024,3
+veronica simpson,delta,tablet,215868.65,2025-03-26,Unknown,Unknown,2025,3
+jonathan lawrence,benue,headphones,127526.34,2024-07-12,Retail,b4299924-c098-4750-8741-9b4834ae4abd,2024,7
+shelly alexander,rivers,monitor,114093.3,2024-08-17,Unknown,93cd1291-1004-4d82-8bc7-2f1acf08ea54,2024,8
+joyce bowen,plateau,keyboard,69284.39,2024-06-29,Retail,89718eea-df3a-498a-8cac-2fb51a0c6c04,2024,6
+matthew moore,delta,laptop,138457.27,2023-11-03,Direct,327375bf-5373-4f4d-9da4-9cb92fdc9992,2023,11
+unknown,plateau,keyboard,46958.85,2024-10-23,Wholesale,abb316a7-4329-4780-9d2c-272175220646,2024,10
+marie christian,abuja,monitor,56949.9,2024-08-14,Retail,637ddcd6-98d3-448b-903b-4078a39c9ec6,2024,8
+shannon james,katsina,charger,262624.85,2023-10-27,Wholesale,1d3e503a-9645-40e4-a47d-c3929c7eb575,2023,10
+nathan malone,kano,charger,229764.23,2024-03-21,Direct,753659ef-d873-4ad9-9a1b-af0e591196dc,2024,3
+amanda jones,niger,laptop,10149.09,2025-07-03,Unknown,ac7051d1-d051-467f-ac2a-c34b9e0b7b01,2025,7
+tammie bright,plateau,headphones,198229.21,2024-10-29,Online,eb2ec80e-4c25-4823-8cf4-ffb0b4bba73f,2024,10
+jessica garcia,plateau,charger,184669.5,2024-03-14,Wholesale,ac0f6801-15b2-4e1d-9715-46339d4edb71,2024,3
+shelia wallace,bauchi,monitor,280903.26,2023-11-14,Online,3d131a3d-1e2c-4e7d-902c-f0ee224a66a6,2023,11
+stephanie williams,sokoto,keyboard,266767.88,2024-05-11,Direct,Unknown,2024,5
+elaine brooks,anambra,tablet,72579.56,2024-10-31,Retail,5f90fc87-2edc-417e-9df0-5d184e2d6255,2024,10
+carolyn miller,sokoto,phone,20653.63,2025-04-25,Direct,93267d25-234b-4562-98af-5cca6b11b7cb,2025,4
+unknown,delta,keyboard,178386.27,2024-02-28,Unknown,7c966b55-2f8d-4ded-ac4c-450b623ad0fc,2024,2
+lisa allen,anambra,laptop,134209.1,2024-10-14,Unknown,eb4e2281-b184-41fc-8991-b01aa2b03c4b,2024,10
+briana murray,benue,charger,201771.08,2024-03-28,Direct,2c591da8-fff9-4acf-ae42-05eea52fc3ec,2024,3
+david smith,oyo,tablet,261727.62,2024-08-08,Direct,49f1137d-7d59-4e19-aab7-b2ef8e0ec033,2024,8
+stephanie byrd,borno,charger,73797.88,2025-04-14,Direct,d78c57d3-5088-40d3-afe5-b14023ea7956,2025,4
+jeremy reed,ekiti,laptop,13748.9,2024-08-09,Direct,dd92dd7c-0db9-47a9-9e91-a71c7374ccbf,2024,8
+margaret coleman,sokoto,monitor,131969.36,2024-08-27,Direct,7c0f549d-0274-4f73-b3ab-ea0d5be9fdb3,2024,8
+ryan gonzalez,kano,phone,162158.06,2024-07-25,Direct,624a2a50-d0b1-4de0-b1f3-f0c022f3f068,2024,7
+laura haney,ekiti,monitor,226438.52,2024-09-20,Online,7de1bf5d-af48-47f0-a8bd-075b7eb6581e,2024,9
+william barrett,katsina,phone,232931.05,2024-02-28,Unknown,Unknown,2024,2
+keith jennings,plateau,camera,42470.6,2024-07-13,Online,71a0449d-d703-462f-b5cb-e3f56a66c184,2024,7
+amber obrien,rivers,charger,298048.29,2025-04-04,Retail,90bde900-1529-46f5-aad1-1fe87d1b695e,2025,4
+unknown,kano,keyboard,70631.37,2023-07-23,Wholesale,38749f3c-c2d4-4b56-8bbe-d98007e67cb0,2023,7
+tanner mitchell dds,imo,keyboard,274960.91,2024-04-22,Online,398f569b-465c-42cb-885e-b4894ac66780,2024,4
+heather fields,enugu,phone,173045.05,2024-03-24,Wholesale,c7de96ea-2b0f-4e44-89e6-4c2289a0b7eb,2024,3
+megan le,bauchi,camera,173453.71,2024-12-15,Retail,c5c5ae8a-be15-4d12-90ce-77e9751303b9,2024,12
+sara fuller,anambra,tablet,231875.19,2023-10-04,Unknown,82c42e48-8cba-4ae5-becc-daf4c4134dc2,2023,10
+maria parker,oyo,headphones,157889.24,2024-05-29,Wholesale,44945e09-1d3c-45a4-929d-63771cfb655f,2024,5
+kevin oconnor,osun,tablet,245605.56,2024-10-06,Retail,fdab3441-d2c2-4960-8b09-01abc66dceb3,2024,10
+edward burgess,kano,keyboard,71452.76,2024-03-05,Direct,c1bcbe59-d296-412d-8ac3-5ac45deaa737,2024,3
+carlos ryan,delta,keyboard,262939.37,2025-03-20,Unknown,70fd6672-b80f-46c5-828f-a16b0aa6fcb9,2025,3
+kiara mcintyre,osun,laptop,295715.82,2025-06-08,Direct,6cd6f011-fd61-413b-b7f2-5d368bddcee3,2025,6
+dawn summers,borno,phone,156614.69,2025-01-24,Unknown,a757075b-d47f-43b1-bc69-c1551a37f6bd,2025,1
+dr. paul morgan,kaduna,camera,124361.28,2025-05-18,Unknown,Unknown,2025,5
+victor taylor,ekiti,headphones,82908.6,2024-12-26,Online,dff389aa-4c36-470c-bf5e-3b8cc0582da5,2024,12
+unknown,imo,tablet,167237.08,2024-11-10,Unknown,4347dbca-7321-48b2-8840-405affd2f491,2024,11
+shannon ramsey,borno,phone,177704.3,2023-07-31,Online,164484a0-d115-4fff-9cb9-1d5f593c572b,2023,7
+richard smith,bauchi,laptop,220696.03,2024-07-13,Unknown,35ba9357-3ca8-4f31-8fd7-f3b9c68fcba5,2024,7
+jordan chambers,lagos,camera,52952.39,2024-02-02,Wholesale,b06b0f0c-9682-4e22-bcd4-344fcf8a368e,2024,2
+lauren carson,imo,laptop,203785.66,2024-12-01,Unknown,9c3a1e0b-b5f3-48aa-9c6d-afff59c2f153,2024,12
+ashley hall,borno,keyboard,166977.27,2025-03-10,Online,9dbc15c0-2a7d-457c-ad9c-5b50a1fd4187,2025,3
+stephen hoffman,rivers,laptop,14541.79,2025-03-04,Direct,d0437e4c-34e5-4699-88eb-e27a23a4e70e,2025,3
+connie brown,oyo,headphones,103652.24,2024-10-02,Unknown,91f0647d-0f32-4333-8e31-593734fa32b6,2024,10
+susan turner,anambra,keyboard,193173.16,2024-10-01,Retail,98cbaa52-47f5-4019-8843-8de259cf0b0d,2024,10
+charles shah,rivers,tablet,114655.81,2024-01-03,Direct,fa9fc10e-52da-4681-ab1a-c76c89ecbc51,2024,1
+johnathan davis,rivers,tablet,157576.69,2025-01-21,Online,929ecc92-4a11-4e44-8aea-1b8fb43cde0a,2025,1
+brandy chavez,imo,monitor,157889.24,2023-08-19,Retail,Unknown,2023,8
+unknown,oyo,keyboard,209044.37,2024-10-06,Wholesale,83b0b35c-dba6-4df8-b3d0-4ffb44709848,2024,10
+natalie bautista,anambra,keyboard,122773.62,2024-07-18,Online,d0afb235-ade6-4f51-a670-93a0fc48f615,2024,7
+patrick moore,borno,camera,90316.6,2023-11-20,Direct,c0062b5b-f678-49b2-a2b5-f4571860ad28,2023,11
+brett burns,katsina,keyboard,55571.75,2024-08-21,Wholesale,0f2d5c15-eb34-4d3a-a95e-5ea9c9230c64,2024,8
+trevor johnson,enugu,headphones,161609.52,2024-11-10,Wholesale,a7e8d18e-ddf6-44ac-86fe-acd4fe1393cd,2024,11
+jeremy sampson,sokoto,monitor,72669.97,2025-01-21,Online,21f8072d-ddb7-470e-b390-b059207bbe21,2025,1
+ariana jennings,enugu,camera,67990.69,2024-11-03,Direct,5274ee11-b61d-4906-a570-35db3fead90a,2024,11
+vanessa howard,anambra,headphones,257333.6,2025-03-03,Online,d7f34368-c2ef-4ecb-bf5f-bf4fd4176230,2025,3
+colton martinez,bauchi,laptop,43733.35,2025-04-24,Retail,24655c39-7d4d-4add-a488-0945ad1db537,2025,4
+linda smith,anambra,monitor,139176.04,2023-11-02,Unknown,135508d0-73b5-4ad5-a00b-4b356a0aa7d5,2023,11
+dana martinez,abuja,charger,17758.37,2025-04-09,Wholesale,c4d598f7-e14f-4093-8b6a-d0c7a2356dd4,2025,4
+andrea hubbard,kano,tablet,124096.91,2024-12-20,Unknown,bff30c8d-83ff-4e96-a721-3a7017d50f59,2024,12
+unknown,niger,phone,125244.11,2024-01-15,Direct,Unknown,2024,1
+daniel kane,anambra,tablet,159232.55,2023-08-04,Retail,e097dedb-efb3-4939-b1d8-18874739cc7b,2023,8
+charles lester,abuja,tablet,116831.51,2024-09-27,Unknown,7cf07bb3-f343-49eb-b466-ef025e7b72c8,2024,9
+scott thomas,lagos,keyboard,76871.2,2025-01-05,Retail,de70bd30-00a2-4367-94fb-09f053c93ae7,2025,1
+david thompson,sokoto,headphones,99413.77,2023-10-04,Retail,17d821b8-bb93-4d40-98df-f535c62dbaea,2023,10
+allison smith,oyo,keyboard,24181.59,2023-12-06,Retail,a284e8fd-755c-4e2a-b8de-d777bb1e5ae8,2023,12
+anthony harmon,kaduna,charger,135211.15,2024-06-17,Unknown,65d0b517-88d0-4abd-8bb1-8c791036708d,2024,6
+nichole alvarez,ekiti,charger,111637.71,2024-03-10,Wholesale,d3293724-6dfd-471a-b7d7-465d37c3b3c9,2024,3
+kayla rodriguez,imo,monitor,160922.84,2024-05-31,Unknown,52a74a41-44be-4486-bea5-a387363be5cb,2024,5
+theresa williams,niger,keyboard,248907.18,2023-11-05,Wholesale,8c1c8b05-5677-4f36-8899-8e5fd40e53ce,2023,11
+sharon boyd,imo,charger,15935.22,2024-05-26,Unknown,da385db5-90ee-4067-a16e-9fe593f37596,2024,5
+victor brown,lagos,camera,113461.81,2024-12-28,Unknown,e4e751de-57ff-41d9-89ce-44bd7c3f1add,2024,12
+unknown,rivers,camera,181688.35,2023-12-16,Retail,0bc2ea72-0c64-4ca2-8323-1466aebbb90e,2023,12
+james parks,kano,monitor,12344.49,2024-05-24,Wholesale,Unknown,2024,5
+theodore jones jr.,oyo,camera,22298.91,2024-08-03,Wholesale,d6321d31-c8ac-4fcf-a04d-4d14197dbae1,2024,8
+kimberly nguyen,abuja,phone,241492.86,2024-10-27,Unknown,74de5f70-70f8-4dba-a871-9b9bdb8f0e32,2024,10
+kerry chavez dds,osun,charger,176481.31,2025-06-24,Wholesale,6d84414d-f541-41ea-bde9-1c42002c4c22,2025,6
+michael farrell,plateau,keyboard,201599.43,2024-07-11,Unknown,e8cee951-b047-4ea4-bee5-ce6933cb202e,2024,7
+patricia le,imo,monitor,65496.45,2025-05-18,Online,4d470ed6-a666-4769-a1d4-6f8221c50e41,2025,5
+jesse perez,oyo,monitor,63062.28,2025-04-29,Retail,e0688849-eec7-4a30-9fda-35b228b2bf21,2025,4
+jesse perry,niger,headphones,272156.33,2025-02-01,Direct,5c457e4d-a793-43b8-97e5-2113462623be,2025,2
+jeffery ortega,oyo,keyboard,91304.81,2025-01-25,Online,aa1d3fc6-5f31-473d-9519-830c40198303,2025,1
+christian leblanc,abuja,phone,272743.75,2023-08-28,Wholesale,0d41ee47-2a5f-4a18-a61f-0b96e75f745a,2023,8
+ronald davis,borno,headphones,63936.43,2025-01-09,Retail,b9da5f8c-4e35-4a80-a027-9a186576a410,2025,1
+parker cain,abuja,laptop,57412.1,2024-08-16,Retail,185df528-b425-4e19-9758-d47ea7cde143,2024,8
+laurie hoffman,osun,keyboard,222571.82,2023-12-19,Retail,Unknown,2023,12
+bryan gomez,enugu,laptop,224190.33,2024-09-18,Wholesale,13f3cade-7a10-413f-b6a2-c52b00473139,2024,9
+nicole parrish,delta,keyboard,226422.06,2024-03-19,Retail,84fa4c72-39e7-44f1-97fb-613a21f89d06,2024,3
+tracy burke,rivers,phone,274375.17,2024-12-06,Direct,02106371-0260-4123-b1ef-e72aae13591e,2024,12
+kenneth lewis,osun,headphones,208840.07,2024-07-16,Direct,1edf3bfa-d12e-4eb5-97f4-79b5b212a6ee,2024,7
+courtney rodriguez,imo,monitor,211278.69,2024-08-22,Retail,b1ac040d-6c1c-4405-9c3f-42e0fcf7b842,2024,8
+holly farmer,niger,headphones,119291.3,2024-04-28,Unknown,3a9c4308-1221-4ddf-ba4a-902f21d63b0f,2024,4
+renee bruce,katsina,laptop,72179.62,2024-03-10,Wholesale,ce532ffd-bb13-4f02-96de-66c96210def6,2024,3
+allison hickman,delta,tablet,96823.7,2024-07-02,Direct,61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,2024,7
+debra white,kaduna,charger,85276.23,2025-06-18,Direct,dfdf0e05-c0ce-431b-9038-e153c601818b,2025,6
+unknown,kaduna,monitor,140142.01,2024-08-28,Online,ad58db1b-fe31-437a-a43e-558c2215df00,2024,8
+ellen morgan,niger,laptop,194792.04,2024-04-01,Online,9033da65-87cf-43fd-9183-6c4f249204c7,2024,4
+sergio knight,lagos,charger,92872.47,2024-09-07,Direct,2a038ad4-a667-4982-9c3d-e1b0022b6683,2024,9
+charles schultz,kaduna,monitor,108213.56,2024-04-11,Unknown,Unknown,2024,4
+paul lewis,sokoto,charger,264902.18,2024-12-16,Wholesale,368acd40-b8f1-4e3c-99e7-703a70aa5b0d,2024,12
+glen wood,niger,keyboard,140068.22,2025-03-01,Wholesale,eb7e2e64-26c0-447e-bf8e-8bfaa0c9da72,2025,3
+paula bradley,delta,phone,240943.58,2025-05-14,Direct,714011a1-afc2-4cfc-9db7-284b6965d1d1,2025,5
+megan nelson,kaduna,camera,216862.87,2024-12-20,Wholesale,1f873b46-c0a0-473a-a3d7-e6a119b814fc,2024,12
+karla ramos,rivers,tablet,228607.88,2024-11-21,Unknown,59fe3d53-624f-4a4b-bae1-e13796ee50e5,2024,11
+paul wilson,benue,camera,96409.87,2025-03-26,Online,ca840003-5083-4fef-adec-6bbdf69777a1,2025,3
+douglas gregory,abuja,laptop,61336.68,2024-12-30,Online,a505da9c-46e7-4a2c-bf6e-ed9d23cbe943,2024,12
+mr. andrew foster,cross river,monitor,94220.14,2024-02-01,Direct,99db1302-8dab-46d3-bf87-dfc2159152f2,2024,2
+unknown,delta,laptop,14191.78,2024-10-26,Wholesale,48f091f0-9b8b-48ae-b89f-3a92999a1d86,2024,10
+aimee turner,enugu,laptop,259293.41,2024-07-21,Online,06ddf6ca-b0c3-4a59-b0f7-ad22c76a8e0f,2024,7
+chad scott,ekiti,keyboard,222505.09,2023-12-07,Unknown,e03635fc-a88d-4108-98d9-94b8d90f74e9,2023,12
+adam burgess,osun,headphones,5357.86,2024-01-18,Direct,9b5f8f39-848b-44f0-b498-17354d38e415,2024,1
+sandra drake,delta,phone,166216.81,2024-09-16,Direct,6449cb6f-bf72-4e52-b04b-237082701238,2024,9
+scott williams,delta,phone,175417.55,2024-02-27,Retail,c8a738ab-0df8-4e12-a56b-61e04ba8a4ca,2024,2
+thomas atkins,lagos,charger,216143.58,2024-01-01,Direct,3d4574eb-f465-4a21-8b35-097ae5dd98f1,2024,1
+laura mckinney,enugu,phone,88910.09,2024-02-27,Wholesale,3db788a6-1cdc-44c2-a2c9-65b27eb0f62a,2024,2
+brian smith,benue,tablet,59259.44,2025-02-28,Wholesale,122dd7be-980b-481e-a359-5d1f7fe4a42e,2025,2
+robert montgomery,sokoto,charger,69390.58,2024-02-20,Wholesale,0316d2d6-fa4a-48ef-a383-7348873dc8bd,2024,2
+tamara davis,anambra,charger,171151.96,2025-01-08,Wholesale,51045a16-ef15-4b72-9c70-ee97fca45567,2025,1
+dana chapman,kano,monitor,74096.14,2023-12-18,Unknown,d6c6f45c-dc5e-4e78-a307-d4d121c9a15d,2023,12
+unknown,anambra,headphones,165417.44,2024-12-28,Unknown,8bde005b-5d8b-4bd7-abbd-b66f91816091,2024,12
+jennifer collins,osun,camera,157889.24,2025-01-08,Retail,78946a15-c342-41db-ac3a-acdcaed54a46,2025,1
+gary jackson,bauchi,monitor,283067.63,2024-07-24,Unknown,12af97e4-c536-466e-bcc4-091bf45707c6,2024,7
+ashley hicks,benue,headphones,101600.5,2024-03-13,Direct,0387f74d-1149-4096-965d-744f0445c1a8,2024,3
+hannah luna,imo,headphones,229126.51,2024-07-17,Wholesale,ec2e2815-0a32-47d2-b73a-edf8431e930f,2024,7
+robin young,sokoto,headphones,146842.02,2024-04-06,Online,Unknown,2024,4
+craig morrison,lagos,laptop,217205.6,2024-09-18,Online,65e1b0f5-ca0e-48c4-b2dc-b12b0f7ae302,2024,9
+mary thompson,rivers,monitor,222008.43,2025-07-05,Online,b66edbf4-a0ea-4251-8957-43a281b13b80,2025,7
+kathleen webster,anambra,camera,138518.29,2025-07-05,Direct,6c6f6d2e-6a59-4043-8461-52348044beb2,2025,7
+joann glass,kaduna,keyboard,219965.28,2025-03-19,Online,a3fa4069-1519-4d38-a6fb-a71db3a9dcaa,2025,3
+madison weber,plateau,headphones,105976.76,2025-01-21,Online,271610c1-9db5-4283-89a3-c811895c4fde,2025,1
+jeremy turner,abuja,keyboard,42417.58,2024-02-19,Direct,f96c9a0a-3404-402a-abc1-bb5282e4dd4a,2024,2
+unknown,rivers,tablet,164190.63,2023-10-13,Direct,53a5e850-8950-4dd6-a7c6-cbb1cedd069d,2023,10
+anthony romero,katsina,keyboard,55622.31,2024-09-28,Online,c362a810-a261-4b8d-9620-bee66406face,2024,9
+jesse brown,niger,tablet,266864.68,2024-12-17,Direct,a4a5c736-ae59-4a52-a65b-e22bd5a386d9,2024,12
+angela lin,osun,phone,297101.9,2024-09-04,Retail,6fff15cc-b2dc-4c34-8f67-448e10eceb1f,2024,9
+lisa hunter,sokoto,keyboard,287192.45,2024-04-30,Retail,3d175712-d8b2-4277-b413-db19bade8d5d,2024,4
+julian conner,niger,tablet,157421.35,2025-06-05,Wholesale,ecb4678c-1612-4aa6-be96-39ba0ed2ec9d,2025,6
+joanna pacheco,katsina,headphones,251801.01,2024-05-12,Retail,Unknown,2024,5
+erica alvarez,bauchi,laptop,22761.96,2025-04-06,Wholesale,9cbf7b8c-7410-4d5d-9db1-4bfc6f3a5115,2025,4
+antonio garcia,rivers,keyboard,157889.24,2024-04-04,Online,aa8430f8-4f2d-4233-8e16-5b129bdc70d1,2024,4
+gwendolyn klein,benue,charger,245489.78,2025-03-02,Wholesale,2cf72140-bd9b-4648-a876-1e85bddfa03a,2025,3
+carrie wright,plateau,tablet,15030.06,2025-03-26,Wholesale,23204ff5-b538-496c-833e-02f71e93d127,2025,3
+jeffrey mills,enugu,monitor,2411.96,2023-11-01,Online,7f14eafa-29f0-4f7c-82e7-df89b3957a98,2023,11
+jake campbell,anambra,tablet,41678.71,2024-02-21,Wholesale,8468b74d-85e3-4de5-98c1-aad6f3f8dea4,2024,2
+unknown,abuja,keyboard,189395.14,2023-08-12,Retail,425e0259-b884-46d2-928f-cf68c871d7b3,2023,8
+george harper,niger,tablet,20856.4,2024-02-19,Online,bff15840-207e-463f-9f32-d5d82abe1585,2024,2
+maria jones,lagos,camera,45733.38,2025-01-15,Direct,bba1aed9-44cd-4fdd-9f9b-141ec7f7bda1,2025,1
+michael mitchell,bauchi,monitor,66006.54,2023-09-10,Wholesale,e65fad87-c57c-4498-9e38-f711e2ec13f4,2023,9
+mary escobar,imo,keyboard,137074.89,2024-04-05,Retail,6de8370a-ce9e-4ebd-95c3-48530783e43c,2024,4
+gregory ponce,osun,camera,18604.81,2024-06-18,Online,a0a5fde6-939f-41a2-b99c-ea5cb65ad0f1,2024,6
+jenna larson,niger,monitor,191499.71,2024-12-01,Online,Unknown,2024,12
+emily bennett,kano,charger,280204.16,2024-01-26,Online,82c299f0-7487-4772-bf03-86fa13badc91,2024,1
+robin santiago,sokoto,tablet,273869.06,2025-02-10,Retail,dbff00b0-7fe6-40f3-8e31-41ec5c311464,2025,2
+nancy jennings,katsina,tablet,197955.66,2024-07-17,Direct,28457780-5e20-4957-aab8-bd33911f730b,2024,7
+maria henderson,sokoto,phone,5211.66,2023-12-24,Online,e4eec67c-1a57-49e4-85f8-e2f8414f4994,2023,12
+jack white,rivers,monitor,159897.64,2023-12-14,Retail,1d8680cb-b908-40f3-ac93-281a92ebeab0,2023,12
+unknown,borno,tablet,123695.88,2025-04-14,Unknown,00a85473-8242-4912-bda3-c1623a78b64a,2025,4
+travis tucker,bauchi,phone,5509.48,2024-09-01,Retail,03254fbd-dce8-41c5-9bd3-0aec0b461173,2024,9
+chad jones,borno,phone,157889.24,2024-02-06,Unknown,5d2d904f-78c5-4073-8bc5-72073e9aec86,2024,2
+ashley wise,niger,keyboard,216796.72,2025-07-04,Direct,2dd0622e-266b-42ea-ab93-f78c620af158,2025,7
+sophia johnson,sokoto,tablet,160953.56,2024-09-19,Online,090d9655-db84-4660-b5d8-fb91ee6081ac,2024,9
+ralph anderson,benue,camera,86363.22,2025-01-01,Online,b6ca1127-e9f8-4970-8d98-f9e28d888beb,2025,1
+christopher guerra,borno,charger,150913.7,2024-02-06,Wholesale,3979d5f5-6b5b-4975-a7dc-2bc0bd9c4693,2024,2
+rhonda martin,imo,camera,209508.79,2023-10-25,Online,ea75752d-6a8f-4acb-bf8e-2d0d52619dec,2023,10
+jason rhodes,oyo,camera,129456.68,2023-10-03,Direct,Unknown,2023,10
+jeremy mitchell,enugu,tablet,281943.72,2024-10-31,Retail,d3748a11-4571-4959-91e7-44e4b864ca08,2024,10
+joann ferguson,niger,headphones,54190.42,2025-02-05,Direct,1e910f36-5f70-4b25-9250-2e5913f06822,2025,2
+robert harrison,benue,laptop,275455.63,2024-10-08,Online,0d7bec04-e6e5-4b32-ac5f-12ef8085c147,2024,10
+holly valentine,kaduna,phone,157889.24,2024-01-12,Retail,8409c5ea-cde9-48b3-b922-a7e42de982f8,2024,1
+unknown,katsina,tablet,157553.43,2024-01-15,Direct,66a302d6-f43e-4c48-8bc1-f9e5fb3df063,2024,1
+mrs. diane reyes,plateau,keyboard,72670.17,2023-08-19,Online,ddb449dc-7710-4966-a082-7f7611a529b4,2023,8
+tracy montoya,borno,phone,186124.36,2024-12-12,Online,4f89e3b2-d847-4c53-8605-e58a48454343,2024,12
+brenda wright,benue,charger,76099.25,2025-06-13,Online,74ed5145-8d97-45c7-961d-5c8753c9fe59,2025,6
+shelly spencer,imo,headphones,106655.11,2024-08-26,Wholesale,4aa5f9d3-335f-4f59-9e71-7fca020a4497,2024,8
+ryan rosales,lagos,laptop,238583.43,2024-01-02,Wholesale,bd54da04-4dcd-4009-88d5-77179055a36f,2024,1
+phillip nelson,borno,tablet,24166.26,2024-11-17,Wholesale,5e472e22-76c3-4642-be19-fc1d9f6a6a65,2024,11
+brittany kim,borno,charger,287809.69,2024-01-07,Retail,ff6ef9ed-7e4c-429f-b8cb-ab4c97790e84,2024,1
+courtney hayes,enugu,monitor,137969.82,2023-08-20,Direct,bb82b796-3207-443e-86a0-7656c5c9fb91,2023,8
+cynthia vang,plateau,camera,73340.76,2024-05-27,Retail,cbc4ec0e-c2ae-4674-8beb-4e78e68373a3,2024,5
+alfred galvan,katsina,headphones,209322.28,2024-03-23,Online,eeb19ad2-01a1-4b0f-a68b-84b63ec0a285,2024,3
+marie moody,sokoto,charger,90342.4,2025-01-18,Unknown,8aa2b4c9-3ba5-4d76-861e-fb9568f82063,2025,1
+unknown,ekiti,tablet,248504.59,2024-07-11,Unknown,b186a5a8-d6ee-426b-a2cd-159058af393c,2024,7
+dustin gallegos,ekiti,headphones,24644.77,2023-09-27,Online,55c3b2db-f374-490d-8274-ce40e09016b6,2023,9
+brenda thornton,ekiti,tablet,297506.57,2024-12-21,Unknown,60538c1b-a845-40a1-8249-2e5e005fd0e6,2024,12
+aaron miller,enugu,keyboard,195143.39,2025-02-28,Retail,4eb9047d-ba2a-43d9-bcf2-fc3bd95874c2,2025,2
+ruben dunn,bauchi,tablet,9989.51,2023-10-25,Direct,fbad793f-87a1-4c02-b487-9e411a9c672a,2023,10
+kelsey rodriguez,cross river,charger,121880.85,2023-07-15,Wholesale,f610396b-7df5-4abf-ab79-0d013cf88d20,2023,7
+riley bryant,kano,keyboard,113462.29,2025-07-01,Retail,0b3d0c36-17d0-4810-87a2-a10bb62edb49,2025,7
+taylor carlson,borno,laptop,143063.53,2023-11-10,Direct,d872f72e-e5b4-41ae-bb41-c943ebd8a3b1,2023,11
+jose allen,bauchi,headphones,191206.05,2024-05-22,Unknown,e5449887-b36a-43ed-a9be-173a850ef0ad,2024,5
+jeffrey mendez,katsina,camera,211002.12,2024-11-29,Direct,Unknown,2024,11
+jason beck,sokoto,monitor,25264.49,2025-07-06,Retail,bf7655d7-f97c-4c3c-b55d-814b5f5ba255,2025,7
+william jones,kano,charger,253676.27,2025-05-25,Online,8163b6ce-1877-4c06-94ad-625215bc2a3e,2025,5
+unknown,delta,laptop,193649.72,2025-05-23,Online,64f434d6-d1e9-4691-a320-9116222df6a4,2025,5
+katie mcneil,borno,monitor,99715.55,2024-07-14,Retail,0ff1c51f-915c-431b-9786-7b1213281726,2024,7
+jeanette harrison,delta,phone,293210.1,2024-07-15,Online,21761930-f6d7-4248-a995-ecc36f5b09a6,2024,7
+richard cooper,oyo,laptop,292165.0,2023-12-12,Direct,64988bde-cd02-44db-ad11-15d750a46c85,2023,12
+lori ingram,lagos,keyboard,268489.97,2025-02-17,Wholesale,53853918-bc40-45fa-94f7-6322b362c0d2,2025,2
+evelyn williams,abuja,charger,275786.09,2024-02-19,Direct,3bcdf203-459e-4674-b3e7-f042516c3b0a,2024,2
+robin thompson,delta,tablet,69315.07,2024-03-16,Wholesale,22d839d3-33e4-4986-b18c-ccdc131eb723,2024,3
+julie dominguez,cross river,monitor,270431.25,2024-02-17,Retail,1be5a4c3-95af-4d0c-8528-5425c7a9f33c,2024,2
+robin brown,katsina,charger,207840.17,2024-11-23,Retail,7316ce64-2a14-4a96-9b0c-62eb27c8fc6c,2024,11
+judith carter,kano,laptop,170251.85,2023-08-25,Wholesale,1ee89a4c-6811-44e2-9064-7c59774f6354,2023,8
+curtis williams,ekiti,camera,81692.97,2025-06-15,Online,Unknown,2025,6
+kaylee hays,niger,keyboard,277285.7,2025-02-27,Retail,c534ca08-f6f2-4d1c-9bb8-b9c8893259f3,2025,2
+dawn mullins,enugu,charger,205486.41,2024-11-28,Unknown,1725d2c7-1eb2-47b8-9a3c-45ca43d78f2b,2024,11
+howard norman,benue,camera,84471.72,2024-09-28,Unknown,4de1087b-afa1-4a55-8ebe-abaa28597b34,2024,9
+evelyn martinez,cross river,laptop,163137.69,2024-01-07,Unknown,9a72083c-b266-486c-b467-88bdd38e13e4,2024,1
+steve paul,benue,keyboard,197603.72,2024-08-29,Wholesale,db4862c2-d5ff-4a1f-b70b-9a290a530df9,2024,8
+jasmine beltran,delta,tablet,54216.67,2025-02-03,Online,b60e695c-1759-4a96-a5f8-8c7453ea4919,2025,2
+jonathan glass md,oyo,monitor,255203.07,2025-01-22,Wholesale,657046ea-5b11-451f-b7e9-101d3f8b4433,2025,1
+monica miller,lagos,laptop,5189.6,2025-05-01,Retail,4c80d33a-ad5b-43c8-8c88-0714837217e0,2025,5
+samantha gardner,rivers,headphones,62543.86,2025-07-07,Unknown,2c82989f-fd9c-4bb0-91f1-6485429a4a7c,2025,7
+bobby guerrero,niger,phone,43685.37,2023-08-08,Unknown,dac726b6-6786-4fb3-b3bc-9a7107f4fee5,2023,8
+heather williams,kaduna,tablet,246296.88,2025-06-25,Retail,1a16998c-7648-476e-983f-ea703ff6579e,2025,6
+heather bolton,bauchi,keyboard,246360.27,2023-11-23,Direct,Unknown,2023,11
+unknown,ekiti,laptop,278698.04,2024-05-30,Wholesale,1f178f93-23c9-4a1e-8b37-1d97cdcc2d6a,2024,5
+william gould,abuja,laptop,90133.43,2025-05-26,Online,c7ecfe71-d493-47fc-8fc9-8d2e030f9be9,2025,5
+mark cox,imo,camera,169405.48,2025-04-21,Retail,32b8d8aa-2176-4dd7-b8e7-e019fb8986c8,2025,4
+meghan cisneros,delta,headphones,170225.43,2023-11-24,Direct,afb06406-5f4b-4a97-a68c-879bd2dc42c8,2023,11
+lawrence harrington,rivers,monitor,254908.01,2025-07-05,Direct,15839b99-a50a-43dc-b004-e897a15b2e18,2025,7
+austin osborne,ekiti,keyboard,203271.97,2025-06-24,Online,eadc9960-4242-41e2-960b-e0f495132c22,2025,6
+james bradley,oyo,charger,162398.45,2023-08-08,Retail,ff45f8a2-0594-424f-9332-5c31d010318a,2023,8
+phillip berry,bauchi,headphones,115461.94,2024-05-14,Unknown,178be968-20f8-4ba2-8f2e-32967184b713,2024,5
+jennifer banks,imo,monitor,222053.68,2025-03-14,Online,cf133b65-d450-4fa2-98e7-0aebe7b33085,2025,3
+brian fitzgerald,katsina,laptop,237254.18,2024-07-29,Unknown,f1394e3c-0aee-4557-9f5d-f91254e07431,2024,7
+mr. justin green iii,sokoto,keyboard,206948.51,2023-12-02,Online,ec93e596-2b01-4723-8cf6-97a57603c36c,2023,12
+zachary mitchell,ekiti,monitor,23989.09,2025-07-07,Wholesale,b9744cde-d259-4960-aee3-560792ea1324,2025,7
+unknown,katsina,tablet,223764.24,2025-02-11,Wholesale,Unknown,2025,2
+katherine martinez,bauchi,phone,104084.92,2025-05-18,Retail,61fa8e7a-078c-46ce-bf02-23bc651ea252,2025,5
+jodi roach,niger,charger,29756.89,2025-06-29,Direct,5a9c0679-2c3d-47e2-ad39-da75aee70ab2,2025,6
+brandon fleming,imo,camera,70027.13,2024-02-20,Unknown,46653497-2fe9-42aa-a886-a01136f7a26c,2024,2
